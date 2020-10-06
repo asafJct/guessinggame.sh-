@@ -1,3 +1,3 @@
-A guessing game in bash shell programming
-The make command run at 15:01 02/10/20 on Jerusalem 
-Contain 25 line of code
+A guessing game in bash shell progrmming
+Tue Oct  6 13:34:37 IDT 2020
+The number of lines of code
