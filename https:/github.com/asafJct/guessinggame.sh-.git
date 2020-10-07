@@ -7,6 +7,7 @@ echo "The game for attempt guessing how much files in the current directory"
 
 welcome 
 num = $(ls|wc -l)
+echo "How much files in the current directory"
 echo "Please enter a guess number"
 read guess
 
@@ -18,7 +19,6 @@ do
  else
   echo "Your guess is too low"
  fi
-
  read guess
 done
 
